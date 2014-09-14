@@ -1,0 +1,18 @@
+en:
+  BusinessInfo:
+    TITLE: 'Business information'
+    BUSINESSNAME: 'Business name'
+    BUSINESSTAGLINE: 'Business tagline'
+    BUSINESSOWNER: 'Business owner'
+    STREET: 'Streetaddress'
+    POSTALCODE: 'Postal code'
+    LOCATION: 'Location'
+    COUNTRY: 'Country'
+    PHONE: 'Phone'
+    FAX: 'Fax'
+    MAINCONTACT: 'Main contact'
+    MAINCONTACTPHONE: 'Main contact phone'
+    EMAIL: 'Mail address'
+    WEBSITE: 'Website'
+    VATNUMBER: 'VAT number'
+    TAXNUMBER: 'Tax number'

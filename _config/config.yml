@@ -1,0 +1,7 @@
+Name: BusinessInfo
+SiteConfig:
+  extensions:
+    - BusinessInfoExtension
+Page_Controller:
+  extensions:
+    - PageControllerExtension
